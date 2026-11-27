@@ -1,0 +1,34 @@
+
+# Module 06: AWS DevOps & CI/CD
+
+## 1. Git
+Git is a version control system used to track changes in source code.
+
+## 2. GitHub
+GitHub is an online platform used to store and manage code repositories.
+
+## 3. Version Control
+Version control helps developers track code changes and collaborate.
+
+## 4. Continuous Integration
+CI automatically checks code whenever developers push changes.
+
+## 5. Continuous Deployment
+CD automates the process of delivering or deploying software.
+
+## 6. AWS CI/CD
+AWS provides services such as:
+- AWS CodePipeline
+- AWS CodeBuild
+- AWS CodeDeploy
+- Amazon S3
+
+## 7. Project Workflow
+1. Create website files.
+2. Upload files to GitHub.
+3. Configure GitHub Actions.
+4. Push code to the main branch.
+5. Check automated workflow in Actions.
+
+## Conclusion
+This project helped me understand the fundamentals of DevOps and CI/CD.
